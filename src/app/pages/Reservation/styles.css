@@ -1,0 +1,80 @@
+.form-holder {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 82px;
+    width: 50%;
+    height: 95%;
+}
+
+form {
+    padding: 30px;
+}
+
+label {
+    margin-top: 20px;
+    font-size: .89rem;
+}
+
+.datetime-picker {
+    margin-top: 3px;
+}
+
+.datetime-picker > div {
+    width: 100%;
+    border-color: white;
+}
+
+.datetime-picker > div > div {
+    border-radius: 2px;
+    font-size: .86rem;
+    height: 40px;
+    border-color: #495057;
+    padding-left: 12px;
+}
+
+.previous {
+    background: white;
+    border: 1px solid black !important;
+    outline: none !important;
+    width: 130px;
+    font-size: .79rem;
+}
+
+.previous:hover {
+    background: #495057 !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+.next {
+    background: #282c34;
+    border: none !important;
+    outline: none !important;
+    color: white !important;
+    width: 130px;
+    font-size: .79rem;
+}
+
+.next:hover {
+    background: white !important;
+    color: black !important;
+    border: 1px solid black !important;
+}
+
+.input-group-prepend {
+    height: 39px;
+}
+
+.input-group-prepend > span {
+    font-size: .79rem;
+}
+
+.got-it a {
+    color: white!important;
+    text-decoration: none;
+}
+
+/*label[for$='male'],*/
+/*label[for='other']{*/
+/*    font-size: .82rem;*/
+/*}*/

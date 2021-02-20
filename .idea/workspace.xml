@@ -1,23 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="030f3ca1-48d4-456d-a44d-829805f2698b" name="Default Changelist" comment="" />
+    <list default="true" id="030f3ca1-48d4-456d-a44d-829805f2698b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/fonts/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/fonts/hkgrotesk-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/images/80px-AIGA_rail.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/images/black-n-white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/images/train_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/images/train_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/assets/vendor/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/AuthRoute/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/ContactDetails/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/PassengerDetails/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/Receipt/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/Receipt/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/TripDetails/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/Reservation/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/SignIn/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/SignIn/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/SignUp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/pages/SignUp/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/actions/auth/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/actions/dashboard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/configureStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/reducers/dashboardReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/localService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/restService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/train-ticket-booking-frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/train-ticket-booking-frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1n9uNIGl4dExYXQzXt6UoSgHUHg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\WebstormProjects\train-ticket-booking-frontend\src\app\components" />
+      <recent name="C:\Users\ThinkPad\WebstormProjects\train-ticket-booking-frontend\src\app" />
+      <recent name="C:\Users\ThinkPad\WebstormProjects\train-ticket-booking-frontend\src\app\pages" />
+      <recent name="C:\Users\ThinkPad\WebstormProjects\train-ticket-booking-frontend\src\app\assets\fonts" />
+      <recent name="C:\Users\ThinkPad\WebstormProjects\train-ticket-booking-frontend\src\app\redux\reducers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\WebstormProjects\train-ticket-booking-frontend\src\app\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,8 +125,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610814586841</updated>
-      <workItem from="1610814589582" duration="1193000" />
+      <workItem from="1610814589582" duration="2226000" />
+      <workItem from="1610841604996" duration="6415000" />
+      <workItem from="1610879018541" duration="23488000" />
+      <workItem from="1611260493273" duration="11929000" />
+      <workItem from="1611339961026" duration="79000" />
+      <workItem from="1611395299847" duration="1729000" />
+      <workItem from="1611397267410" duration="1782000" />
+      <workItem from="1611399111460" duration="967000" />
+      <workItem from="1611400477291" duration="1787000" />
+      <workItem from="1611402390953" duration="1773000" />
+      <workItem from="1611404864721" duration="1379000" />
+      <workItem from="1611407143435" duration="1729000" />
+      <workItem from="1611408987164" duration="253000" />
+      <workItem from="1611411643770" duration="1777000" />
+      <workItem from="1611413479512" duration="1859000" />
+      <workItem from="1611415445041" duration="1775000" />
+      <workItem from="1611417287142" duration="1837000" />
+      <workItem from="1611419228225" duration="698000" />
+      <workItem from="1611656668189" duration="585000" />
+      <workItem from="1611751146599" duration="590000" />
+      <workItem from="1611752275421" duration="1775000" />
+      <workItem from="1611754351286" duration="1737000" />
+      <workItem from="1611756199773" duration="1758000" />
+      <workItem from="1611758078507" duration="1672000" />
+      <workItem from="1611776813476" duration="1078000" />
+      <workItem from="1611816047140" duration="1399000" />
+      <workItem from="1611819440631" duration="1204000" />
+      <workItem from="1612097791699" duration="1583000" />
+      <workItem from="1613815924967" duration="4179000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/../unify_frontend" />
   </component>
 </project>

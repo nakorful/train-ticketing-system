@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.receipt-holder {
+    font-family: 'Itim', cursive;
+}
+
+.receipt-holder > :first-child {
+    font-size: 2rem;
+}
+
+.receipt-holder > :last-child {
+    font-size: 1.23rem;
+}
+
+.receipt-holder > :last-child > div:first-child {
+    margin-top: 12px;
+}
+.receipt-holder > :last-child > div {
+    margin-bottom: 7px;
+}
